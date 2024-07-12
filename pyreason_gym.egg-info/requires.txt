@@ -1,0 +1,5 @@
+gym
+pygame
+networkx
+pyreason==1.6.4
+numpy

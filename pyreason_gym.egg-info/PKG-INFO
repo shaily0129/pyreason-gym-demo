@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyreason_gym
+Version: 0.0.1
+License-File: LICENSE
+Requires-Dist: gym
+Requires-Dist: pygame
+Requires-Dist: networkx
+Requires-Dist: pyreason==1.6.4
+Requires-Dist: numpy

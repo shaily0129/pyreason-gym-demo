@@ -1,0 +1,11 @@
+- conda create -n myenv python=3.9
+conda activate myenv
+pip install numpy==1.24.0
+pip install scipy  
+pip install pandas
+- pip install pygame
+- pip3 show pyreason
+- pip3 install pyreason==1.5.1 --force-reinstall
+- pip install gym → https://github.com/openai/gym
+- pip install pygame
+- pip install numpy==1.24.0
